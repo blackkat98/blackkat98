@@ -18,9 +18,54 @@
 
 #### Taylor Swift
 
-| | | | |
-| :---: | :---: | :---: | :---: |
-| [![GIF 1](https://media.giphy.com/media/PFc4ohINrJWCY/giphy.gif)](https://www.youtube.com/watch?v=AgFeZr5ptV8) | [![GIF 2](https://media.giphy.com/media/Klz1Xt7QBZngsC2xgT/giphy.gif)](https://www.youtube.com/watch?v=DScPdYEgNdU) | [![GIF 3](https://media.giphy.com/media/v9v52TS1udPIGiUZqD/giphy.gif)](https://www.youtube.com/watch?v=o5SQIECedTY) | [![GIF 4](https://media.giphy.com/media/am0uNhFYUXeK1zU4lP/giphy.gif)](https://www.youtube.com/watch?v=q3zqJs7JUCQ) |
+<table width="100%">
+    <tr>
+        <td width="25%" align="center">
+            <a href="https://www.youtube.com/watch?v=AgFeZr5ptV8" target="_blank">
+                <img
+                    src="https://media.giphy.com/media/PFc4ohINrJWCY/giphy.gif"
+                    width="100%"
+                    height="160px"
+                    style="object-fit: cover; object-position: center;"
+                    alt="Taylor Swift GIF 1"
+                >
+            </a>
+        </td>
+        <td width="25%" align="center">
+            <a href="https://www.youtube.com/watch?v=DScPdYEgNdU" target="_blank">
+                <img
+                    src="https://media.giphy.com/media/Klz1Xt7QBZngsC2xgT/giphy.gif"
+                    width="100%"
+                    height="160px"
+                    style="object-fit: cover; object-position: center;"
+                    alt="Taylor Swift GIF 2"
+                >
+            </a>
+        </td>
+        <td width="25%" align="center">
+            <a href="https://www.youtube.com/watch?v=o5SQIECedTY" target="_blank">
+                <img
+                    src="https://media.giphy.com/media/v9v52TS1udPIGiUZqD/giphy.gif"
+                    width="100%"
+                    height="160px"
+                    style="object-fit: cover; object-position: center;"
+                    alt="Taylor Swift GIF 3"
+                >
+            </a>
+        </td>
+        <td width="25%" align="center">
+            <a href="https://www.youtube.com/watch?v=q3zqJs7JUCQ" target="_blank">
+                <img
+                    src="https://media.giphy.com/media/am0uNhFYUXeK1zU4lP/giphy.gif"
+                    width="100%"
+                    height="160px"
+                    style="object-fit: cover; object-position: center;"
+                    alt="Taylor Swift GIF 4"
+                >
+            </a>
+        </td>
+    </tr>
+</table>
 
 #### Xiangqi and Chess
 
